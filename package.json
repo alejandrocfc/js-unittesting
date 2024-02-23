@@ -1,7 +1,7 @@
 {
   "name": "js-unittesting",
   "version": "1.0.0",
-  "description": "",
+  "description": "- Clonar el repo\r - En una terminal dentro del proyecto, ejecutar:\r ```npm install```\r - Para ejecutar las pruebas:\r ```npm run test```\r - Para ejecutar las pruebas con cobertura:\r ```npm run coverage```",
   "main": "suma/index.js",
   "scripts": {
     "test": "jest",
